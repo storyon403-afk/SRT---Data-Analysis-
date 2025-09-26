@@ -1,4 +1,4 @@
-# SRT---Data-Analysis-
+# SRT---Data-Analysis
 Nothing
 
 本项目，目前在阶段一致力于构建一个javaweb,接入ai大模型做高级数据分析，将数据分析结果全面地呈现在大家面前。👻👻👻
